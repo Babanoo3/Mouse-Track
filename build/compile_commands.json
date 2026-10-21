@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/erowl/Documents/MouseTrack/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\MyGame.dir\\src\\Game.cpp.obj -c C:\\Users\\erowl\\Documents\\MouseTrack\\src\\Game.cpp",
+  "file": "C:\\Users\\erowl\\Documents\\MouseTrack\\src\\Game.cpp",
+  "output": "CMakeFiles\\MyGame.dir\\src\\Game.cpp.obj"
+}
+]

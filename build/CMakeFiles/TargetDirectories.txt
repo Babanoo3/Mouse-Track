@@ -1,0 +1,3 @@
+C:/Users/erowl/Documents/MouseTrack/build/CMakeFiles/MyGame.dir
+C:/Users/erowl/Documents/MouseTrack/build/CMakeFiles/edit_cache.dir
+C:/Users/erowl/Documents/MouseTrack/build/CMakeFiles/rebuild_cache.dir
